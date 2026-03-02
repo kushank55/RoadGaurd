@@ -1,5 +1,3 @@
-Video Link : https://drive.google.com/drive/folders/14g53hif8wRRP_WGRrqIvB-tVQSIiw8cA
-
 # RoadGuard Odoo
 
 Comprehensive monorepo for RoadGuard — a workshop/workers marketplace with a TypeScript/Node backend and a React + Vite frontend.
